@@ -1,0 +1,5 @@
+NTH-CHILD(N): SELECCIONA EL ENÉSIMO ELEMENTO. Todo lo que venga detras del. Esta pseudoclase selecciona el n-eswimo elemento hijo de su elemento padre, En este proyecto el elemento padre es el elemento item que fue seleccionado por la parte anterior del selector.
+
+.slide .item_nth-child(1): Se selecciona el primer elemento item que se encuentyre dentro de un elemento slide.
+
+ .slide .item_nth-child(n+1): selecciona todos los elementos que se encuentran dentro del slide (imagen, boton, etc.): Es un contador. EL SELECTOR SE USA PARA DISEÑAR LOS ELEMENTOS EN UN CONTROL DESLIZANTE O CARRUSEL. POR EJEMPLO: SE PUEDE UTILIZAR PARA DAR A LOS ELEMENTOS ITEMS UN COLOR, FONDO O UN BORDE DIFERENTE.
